@@ -1,0 +1,3 @@
+body p:first-of-type {
+    background-color: aqua;
+}
